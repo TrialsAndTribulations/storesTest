@@ -1,6 +1,12 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
+# Reading from and Writing to Svelte stores
 
-*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+This is a test project to figure out how to read and write to the store from Electron (or another CommonJS file).
+
+Thanks to the Svelte discord channel, I have figured these two out, or so I thought. One issue that remains is that the UI is not updated with the values. 
+
+Ideally, I would not only update the value, but maybe even run a function whenever a value in stores changes. 
+
+[*Regular readme below*]
 
 ---
 
